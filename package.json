@@ -75,7 +75,7 @@
     "yargs": "^10.0.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1; node .github/setup.js"
   },
   "author": "The Octopus Deploy team and contributors",
   "license": "Apache-2.0",
