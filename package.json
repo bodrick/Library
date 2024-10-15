@@ -15,7 +15,7 @@
     "babel-preset-react": "^6.5.0",
     "compression": "^1.6.1",
     "events": "^1.1.0",
-    "express": "^4.21.1",
+    "express": "^4.13.4",
     "font-awesome": "^4.6.1",
     "history": "^2.1.0",
     "jade": "^1.11.0",
@@ -75,7 +75,7 @@
     "yargs": "^10.0.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1; node .github/setup.js"
   },
   "author": "The Octopus Deploy team and contributors",
   "license": "Apache-2.0",
