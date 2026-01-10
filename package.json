@@ -28,7 +28,7 @@
     "react-copy-to-clipboard": "^4.1.0",
     "react-disqus-thread": "^0.4.0",
     "react-dom": "^15.0.1",
-    "react-router": "^6.30.2",
+    "react-router": "^2.3.0",
     "react-syntax-highlighter": "^2.0.2",
     "underscore": "^1.8.3"
   },
@@ -75,7 +75,7 @@
     "yargs": "^10.0.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1; node .github/setup.js"
   },
   "author": "The Octopus Deploy team and contributors",
   "license": "Apache-2.0",
