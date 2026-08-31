@@ -20,7 +20,7 @@
     "history": "^2.1.0",
     "jade": "^1.11.0",
     "marked": "^0.3.5",
-    "moment": "^2.13.0",
+    "moment": "^2.29.4",
     "node-uuid": "^1.4.7",
     "normalize.css": "^4.1.1",
     "prop-types": "^15.6.0",
